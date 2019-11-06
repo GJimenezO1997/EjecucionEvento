@@ -1,0 +1,10 @@
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\bin\Debug\time_pictureBox.exe.config
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\bin\Debug\time_pictureBox.exe
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\bin\Debug\time_pictureBox.pdb
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\obj\Debug\time_pictureBox.csprojAssemblyReference.cache
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\obj\Debug\time_pictureBox.Form1.resources
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\obj\Debug\time_pictureBox.Properties.Resources.resources
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\obj\Debug\time_pictureBox.csproj.GenerateResource.cache
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\obj\Debug\time_pictureBox.csproj.CoreCompileInputs.cache
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\obj\Debug\time_pictureBox.exe
+C:\Users\gusta_000\source\repos\time_pictureBox\time_pictureBox\obj\Debug\time_pictureBox.pdb
